@@ -13,5 +13,8 @@ class Ship
     def self.all
         @@all_ships
     end
-
+    
+    def self.clear
+        self.all.clear
+    end
 end
