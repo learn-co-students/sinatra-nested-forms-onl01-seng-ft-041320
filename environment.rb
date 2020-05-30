@@ -7,4 +7,4 @@ require 'sinatra/base'
 require 'sinatra/reloader'
 
 #require_all 'app/models'
-require_all './app'
+#require_all './app'
